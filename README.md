@@ -1,9 +1,11 @@
-# 💫 Nehal Chaudhary - Creative Technologist | Data Alchemist | 
-> "Stylish outside . Stats-obsessed inside. Art in logic , logic in art. "
+# 💫 Nehal Chaudhary - Data-Driven Developer| Creative Technologist | 
+> “Precision in code. Poise in design. Where data meets intention.”
+
 ---
 
 ## 🍜 Who am I ? 
-B.Tech student at NSUT Delhi & pursuing B.Sc in Data Science at IIT Madras,I blend **aesthetic sensibilities** with **data-driven logic**, aiming to create tech that not only works—but *feels* right.
+B.Tech student at NSUT Delhi & pursuing B.Sc in Data Science at IIT Madras, with a passion for crafting **clean, intuitive digital experiences**, I specialize in transforming abstract data and technical logic into usable, visual, and impactful products.  
+My approach blends **engineering clarity** with a keen eye for **aesthetics and user behavior**.
 
 I'm deeply passionate about:
 - building sleek, intuitive UIs 🌐  
