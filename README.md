@@ -1,8 +1,19 @@
-## Hi there Nehal here 
+# 💫 Nehal Chaudhary - Creative Technologist | Data Alchemist | 
+> "Stylish outside . Stats-obsessed inside. Art in logic , logic in art. "
+---
 
-B.Tech student at NSUT Delhi & pursuing B.Sc in Data Science at IIT Madras, passionate about crafting impactful user experiences.  
-Proficient in MERN STACK, driven to build intuitive and data‑driven solutions
-let’s innovate together! 🚀
+## 🍜 Who am I ? 
+B.Tech student at NSUT Delhi & pursuing B.Sc in Data Science at IIT Madras,I blend **aesthetic sensibilities** with **data-driven logic**, aiming to create tech that not only works—but *feels* right.
+
+I'm deeply passionate about:
+- building sleek, intuitive UIs 🌐  
+- telling stories through data 📊  
+- and adding taste, art, and clarity into every line of code 🎨
+  
+Currently diving deep into the **MERN Stack**, working on projects that bridge **design, intelligence, and impact**.
+Let’s build something *beautifully functional* together. 🚀
+
+---
 
 
 ## 🌐 Socials:
