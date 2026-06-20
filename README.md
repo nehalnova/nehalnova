@@ -4,7 +4,7 @@
 ---
 
 ## 🍜 Who am I ? 
-B.Tech student at NSUT Delhi & pursuing B.Sc in Data Science at IIT Madras, with a passion for crafting **clean, intuitive digital experiences**, I specialize in transforming abstract data and technical logic into usable, visual, and impactful products.  
+B.Tech student at NSUT Delhi , with a passion for crafting **clean, intuitive digital experiences**, I specialize in transforming abstract data and technical logic into usable, visual, and impactful products.  
 My approach blends **engineering clarity** with a keen eye for **aesthetics and user behavior**.
 
 I'm deeply passionate about:
